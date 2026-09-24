@@ -1,0 +1,18 @@
+{
+  "name": "about-senbuzy-clone",
+  "version": "1.0.0",
+  "description": "100% clone of https://about.senbuzy.com/",
+  "scripts": {
+    "dev": "npx serve . -p 3000",
+    "start": "npx serve . -p 3000",
+    "serve:py": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "threejs",
+    "react",
+    "portfolio",
+    "webgl"
+  ],
+  "author": "",
+  "license": "ISC"
+}
